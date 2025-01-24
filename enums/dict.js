@@ -1,4 +1,3 @@
-const _ = require("lodash");
 const COUNTRIES = [
   { name: "Afghanistan", code: "AF" },
   { name: "Åland Islands", code: "AX" },
